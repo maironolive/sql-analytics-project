@@ -309,6 +309,7 @@ A proposta é utilizar o modelo dimensional como base para construção de dashb
 | Python | Extração, processamento e carga dos arquivos CSV. |
 | PostgreSQL | Armazenamento, transformação e modelagem dos dados. |
 | SQL | Construção das views, fatos, dimensões e análises. |
+| DBeaver | Ferramenta utilizada para conexão, gerenciamento e execução de scripts SQL no banco de dados. |
 | Power BI | Visualização de dados e construção de dashboards. |
 | Machine Learning | Previsão de demanda e recomendação de produtos. |
 
